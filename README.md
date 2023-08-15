@@ -31,3 +31,29 @@
 * 2 - Postgres
 * 3 - Django REST Framework
 * 4 - React
+
+# Home Page 
+<img src="resources/images/demo/home.png"> 
+
+# User Registration
+<img src="resources/images/demo/register.png"> 
+
+# User
+<img src="resources/images/demo/user.png"> 
+
+# Product 
+<img src="resources/images/demo/product.png"> 
+
+# Review Product
+<img src="resources/images/demo/review.png"> 
+
+# Cart
+<img src="resources/images/demo/cart.png"> 
+
+# Order Details
+<img src="resources/images/demo/checkout.png"> 
+
+# Checkout
+<img src="resources/images/demo/order.png"> 
+
+ 
