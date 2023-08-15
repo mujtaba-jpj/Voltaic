@@ -14,7 +14,7 @@
 * Checkout process (shipping, payment method, etc)
 
 # Download & Setup Instructions
-* 1 - Clone project: git clone 
+* 1 - Clone project: git clone https://github.com/mujtaba-jpj/Voltaic
 * 2 - cd Voltaic
 * 3 - Create virtual environment: virtualenv myenv
 * 4 - myenv\scripts\activate
